@@ -5,7 +5,7 @@ const fs = require('fs');
 const uuid = require('uuid');
 
 // Sets up a port
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT ||3001;
 
 // App allows express NPM to be operated with
 const app = express();
